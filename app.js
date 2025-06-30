@@ -17,12 +17,10 @@
         student.phone=123455678 
         delete student.grade
         student.age=21
-        console.log(student)
-
-        // plz cheak what misteke i made 
+        console.log(student) 
 
         let pavan=7;
-        if (pavan>=0 && pavan <=0 ){
+        if (pavan>=0  ){
                 console.log('Positive')
         }
         else {
